@@ -14,3 +14,7 @@ while count < k:
         print(n, end=" ")
 
     n += 1
+
+#Approach2:
+# for i in range(k):
+#     print(i**2, end=" ")

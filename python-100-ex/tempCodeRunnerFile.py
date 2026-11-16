@@ -1,12 +1,20 @@
-m, n = map (int, input().split())
-count = 0
-snt = True
-if m < n:
-    for j in range (2, n+1):
-        for i in range (2, j)
-        if j % i == 0:
-            snt = False
-            count += 1
-elif n <= 1 and m <= 1:
-    snt = False
-print (count)
+for i in a:
+#     snt = True
+
+#     if i < 2:
+#         snt = False
+#     else:
+#         for j in range (2, int( i ** 0.5) + 1):
+#             if i % j == 0:
+#                 snt = False
+#                 break
+
+#         if snt:
+#             count += 1
+#             snt_list.append(i)
+                
+
+# if count == 0:
+#     print( "-")
+# else:
+#     print(max(snt_list))
